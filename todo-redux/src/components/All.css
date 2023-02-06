@@ -1,0 +1,10 @@
+#nav{
+    background-color: darkmagenta;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+a{
+    color: aliceblue;
+    text-decoration: none;
+}
